@@ -13,7 +13,7 @@
 --    • Duplicate detection using ROW_NUMBER() with window functions
 --    • Data standardisation via TRIM, LIKE, and STR_TO_DATE
 --    • Null handling with self-joins to impute missing values
---    • Iterative schema refinement using ALTER TABLE
+--    • Schema updates using ALTER TABLE
 -- =====================================================
 
 
